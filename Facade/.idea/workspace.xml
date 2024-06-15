@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df16274e-e2f8-44d0-9fcd-57474a15fdb2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Adapter/Adapter/src/program/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Adapter/Adapter/src/program/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/Adapter/src/refactoringGuru/demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Adapter/Adapter/src/refactoringGuru/demo/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder/Builder2/src/application/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/Builder2/src/application/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder/Builder2/src/phone/PhoneBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/Builder2/src/phone/PhoneBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder/Builder2/src/refactoring/guru/application/DemoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/Builder2/src/refactoring/guru/application/DemoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder/Builder2/src/refactoring/guru/director/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/Builder2/src/refactoring/guru/director/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/Singleton/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/Singleton/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/Singleton/src/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/Singleton/src/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/Singleton/src/SingletonMultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/Singleton/src/SingletonMultiThread.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2hjneK8iKhNiJpt9bgMIZ6l7pVY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/me/DesignPatterns/DesignPatterns/Facade"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-azul-21.0.1-4caba194b151-4db27c24" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df16274e-e2f8-44d0-9fcd-57474a15fdb2" name="Changes" comment="" />
+      <created>1718116447267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718116447267</updated>
+    </task>
+    <servers />
+  </component>
+</project>
