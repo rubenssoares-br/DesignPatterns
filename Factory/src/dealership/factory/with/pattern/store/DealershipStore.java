@@ -1,12 +1,10 @@
-package factory.store;
+package dealership.factory.with.pattern.store;
 
-import dealership.factory.with.pattern.store.Car;
-import dealership.factory.with.pattern.store.PopularCar;
-import dealership.factory.with.pattern.store.SportCar;
+import dealership.factory.with.pattern.factory.DealershipFactory;
 
 public class DealershipStore {
     public Car sellCar(String carModel) {
-        Car chosenCar = (carModel.equals("SPORTS")) ? new SportCar() : new PopularCar();
+        Car chosenCar = DealershipFactory.getInstance(carModel);
 
         System.out.println("Sold a: " + chosenCar.getModel());
 

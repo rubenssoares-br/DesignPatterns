@@ -1,5 +1,4 @@
 package dealership.factory.with.pattern.store;
-import dealership.factory.with.pattern.store.*;
 
 public class PopularCar extends Car {
 

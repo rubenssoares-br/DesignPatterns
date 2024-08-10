@@ -1,6 +1,6 @@
 package dealership.factory.with.pattern.application;
 
-import factory.store.DealershipStore;
+import dealership.factory.with.pattern.store.DealershipStore;
 
 public class Program {
     public static void main(String[] args) {
